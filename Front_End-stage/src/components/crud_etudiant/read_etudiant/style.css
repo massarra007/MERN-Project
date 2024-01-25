@@ -1,0 +1,12 @@
+.buttons{
+    display: "flex";
+    flex-direction: row;
+
+
+}
+.confirm {
+    margin-left: 20px;
+}
+.annuler{
+    background-color: green;
+}

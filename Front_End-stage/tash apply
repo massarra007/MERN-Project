@@ -1,0 +1,467 @@
+[33mcommit 784be83569459fc07f4410c5f6264af92886bfe6[m[33m ([m[1;36mHEAD -> [m[1;32mstage[m[33m, [m[1;31morigin/stage[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ameni maghraoui <maghraouiameni20@gmail.com>
+Date:   Fri Apr 28 13:38:37 2023 -0700
+
+    merge stage
+
+[33mcommit bb67a807ad6b03825886896b39d3225688ee7784[m
+Merge: 613d94e 6e6a742
+Author: ameni maghraoui <maghraouiameni20@gmail.com>
+Date:   Fri Apr 28 12:52:25 2023 -0700
+
+    Merge branch 'pfe_pfa' into stage
+
+[33mcommit 6e6a7424ddee7c9d58093df29e069a744dd6e2cb[m[33m ([m[1;31morigin/pfe_pfa[m[33m)[m
+Author: ameni maghraoui <maghraouiameni20@gmail.com>
+Date:   Fri Apr 28 11:42:45 2023 -0700
+
+    all changes by ameni
+
+[33mcommit 613d94edb47983a0758dde212e6051cb636146d2[m
+Merge: 11dc266 9de32ae
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Wed Apr 26 23:52:19 2023 +0200
+
+    Merge remote-tracking branch 'origin/statistiques_pays_societe_promotion' into stage
+
+[33mcommit 11dc266afcf76805c2af9325352d1e14fd72379a[m
+Merge: 08910cf 6b92ea4
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Wed Apr 26 23:45:22 2023 +0200
+
+    Merge remote-tracking branch 'origin/verif_fonctionalite_etd_alum' into stage
+
+[33mcommit 08910cf7361e9d67668f057d0cb5487c7860b20e[m
+Merge: 756f5b7 19586e9
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Wed Apr 26 18:52:15 2023 +0200
+
+    Merge remote-tracking branch 'origin/valider_alumni' into stage
+
+[33mcommit 9de32ae7c28177f849be61617925f18b85cf0e73[m[33m ([m[1;31morigin/statistiques_pays_societe_promotion[m[33m)[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Sat Apr 22 22:47:31 2023 +0200
+
+    first commit statistiques pays societe promotion
+
+[33mcommit 6b92ea4c556cae5b1645ef87514f3cd7b594ddae[m[33m ([m[1;31morigin/verif_fonctionalite_etd_alum[m[33m)[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Fri Apr 21 23:17:39 2023 +0200
+
+    first commit verfication fonctionalite etudiant alumni
+
+[33mcommit 19586e92cc231c3f9f32d796581d940131f5d17a[m[33m ([m[1;31morigin/valider_alumni[m[33m)[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Fri Apr 21 21:23:23 2023 +0200
+
+    first commit valider alumni
+
+[33mcommit 756f5b72920c1fa0cd77086aed08e150922fb2d8[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Wed Apr 19 22:04:36 2023 +0100
+
+    merge change password
+
+[33mcommit 507747eed63ca4ecf35bd280aac8658a76223b3c[m
+Merge: ca3f100 001d8ed
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Wed Apr 19 22:04:18 2023 +0100
+
+    Merge remote-tracking branch 'origin/change_password' into stage
+
+[33mcommit ca3f100b9775d847473f8b6967ebefa8907572d7[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Wed Apr 19 21:49:40 2023 +0100
+
+    merge check status
+
+[33mcommit acd9c37c19a565850e614f8c3f74a8cb94a33a4a[m
+Merge: e9cb307 a4cee5c
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Wed Apr 19 21:49:16 2023 +0100
+
+    Merge commit 'a4cee5c2b29aa4007cf973d1caa2c194e5be3cce' into stage
+
+[33mcommit e9cb307c3d8ea2f58eb483fbe6e836567cd3300f[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Wed Apr 19 21:41:51 2023 +0100
+
+    merge add alumni
+
+[33mcommit df902bfd689c13137457a72be9466efcc6907574[m
+Merge: 6b9102e 8f7759d
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Wed Apr 19 21:40:46 2023 +0100
+
+    Merge commit '8f7759d68610b41b2dfa10f56a36e2e0c5c30f66' into stage
+
+[33mcommit a4cee5c2b29aa4007cf973d1caa2c194e5be3cce[m[33m ([m[1;31morigin/check_status_alumni[m[33m)[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Wed Apr 19 22:20:27 2023 +0200
+
+    version finale check status alumni
+
+[33mcommit 8f7759d68610b41b2dfa10f56a36e2e0c5c30f66[m[33m ([m[1;31morigin/add_compte_alumni[m[33m)[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Wed Apr 19 22:10:33 2023 +0200
+
+    version finale ajout compte alumni
+
+[33mcommit 001d8ed58e8bb65cf6b42a7ef32818b2c49b2f60[m[33m ([m[1;31morigin/change_password[m[33m)[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Wed Apr 19 20:34:17 2023 +0200
+
+    verson finale
+
+[33mcommit 09b0011db204c35e27822c8bc7e54460d020603e[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Wed Apr 19 12:56:24 2023 +0200
+
+    clean app.js
+
+[33mcommit d48f75caf6c3ac80292c885158bfc1a96ab09453[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Wed Apr 19 01:15:07 2023 +0200
+
+    final version
+
+[33mcommit 6b9102e11fe67df41bbb3a68387447b033550f68[m[33m ([m[1;31morigin/dark_light_mode[m[33m)[m
+Merge: a87b951 39200ce
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Mon Apr 17 23:31:38 2023 +0100
+
+    Merge pull request #4 from Maghraoui20/update_CV
+    
+    Update cv
+
+[33mcommit 39200ce5754e139f7f264c931addd232b3e21e09[m[33m ([m[1;31morigin/update_CV[m[33m, [m[1;32mupdate_CV[m[33m)[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Mon Apr 17 23:30:18 2023 +0100
+
+    Adding some changes
+
+[33mcommit 98dfa5f77b5938e533c280bc8cd70b6c55967116[m
+Author: ameni maghraoui <maghraouiameni20@gmail.com>
+Date:   Sun Apr 16 21:17:28 2023 -0700
+
+    pfe et pfa
+
+[33mcommit ab099634711a9a1be78063cff61413202eed4794[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Sun Apr 16 16:34:40 2023 +0200
+
+    final changes
+
+[33mcommit 47a0deb1b492c8f8ada3e28f96618bbdda8d70a7[m
+Author: DorraBoutiti <boutitidorra@gmail.com>
+Date:   Sun Apr 16 15:28:11 2023 +0200
+
+    final version
+
+[33mcommit 33ee99a6f6c00e4c8a8765d8e271583090f9a6c5[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Sun Apr 16 02:43:32 2023 +0100
+
+    final version
+
+[33mcommit a0f18dbbf17ffda6e3cd778f8f043d90d4c523d1[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Sat Apr 15 10:27:48 2023 +0100
+
+    new changes
+
+[33mcommit c8b57aea6fcb1ca5eb4d65414cd4dedcc3cb5463[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Fri Apr 14 06:21:25 2023 +0100
+
+    final changes
+
+[33mcommit e7ba3e4f3a18836598fbd5bd933aa9a933c75fce[m
+Author: dorra <boutitidorra@gmail.com>
+Date:   Thu Apr 13 06:21:18 2023 +0100
+
+    demande compte alumni
+
+[33mcommit 6e1120426b508a92d1f8c32bd86f9ef3b9d305c2[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Tue Apr 11 05:11:58 2023 +0100
+
+    Adding more inputs dynamically
+
+[33mcommit 68f177b5c2f29a8d0afb0941398ace086cb002e8[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Mon Apr 10 05:17:09 2023 +0100
+
+    Add more inputs in cv form
+
+[33mcommit 6ea6350b607b76efd6d1e57d595d68dcbfd70c9d[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Sun Apr 9 06:21:52 2023 +0100
+
+    adding cv view
+
+[33mcommit b2cec25411d11ac85498a05663a3b5e641dab9a2[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Sat Apr 8 01:41:25 2023 +0100
+
+    update cv
+
+[33mcommit a87b951ac7c02f80e90b0cadc0be23fc4ee49653[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Tue Apr 4 23:43:31 2023 +0100
+
+    final change
+
+[33mcommit aa15e361d78149423e89a7f7e689cb396445fafa[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Tue Apr 4 23:22:56 2023 +0100
+
+    test merge
+
+[33mcommit 8f790d62fc0993c47be58d824e33a5d28fda0e7e[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Tue Apr 4 23:14:04 2023 +0200
+
+    last changes
+
+[33mcommit f391d8073031d4bb202d72de9a74a57464b50ef0[m
+Merge: 0d5a5f3 c0ca9f5
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Tue Apr 4 03:05:49 2023 +0100
+
+    Merge remote-tracking branch 'origin/forgot-reset-password' into stage
+
+[33mcommit 0d5a5f32c13daa7970e9c9c1211117dcdd60c804[m
+Merge: e47c9ac 80fe67f
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Tue Apr 4 02:53:43 2023 +0100
+
+    Merge branch 'stage' of https://github.com/Maghraoui20/Front_End into stage
+
+[33mcommit e47c9acb30039009462569812675c59d3e162951[m
+Merge: 349938c 4008d0c
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Tue Apr 4 02:31:52 2023 +0100
+
+    Merge remote-tracking branch 'origin/compte-alumni' into stage
+
+[33mcommit c0ca9f5e79e57ed5b3ac936fd51d2070a1cf1a71[m[33m ([m[1;31morigin/forgot-reset-password[m[33m)[m
+Author: dorra <boutitidorra@gmail.com>
+Date:   Tue Apr 4 01:47:15 2023 +0100
+
+    forgot reset password changes
+
+[33mcommit 4008d0c238a976aa5ceac27be14fd423ff56494e[m[33m ([m[1;31morigin/compte-alumni[m[33m)[m
+Author: dorra <boutitidorra@gmail.com>
+Date:   Tue Apr 4 01:46:30 2023 +0100
+
+    compte alumni changes
+
+[33mcommit eb68f4ff2ae415ef07f8a055127747340f62a94d[m
+Author: dorra <boutitidorra@gmail.com>
+Date:   Tue Apr 4 01:30:27 2023 +0100
+
+    compte alumni
+
+[33mcommit 46d9cc207901774008142bd532a76602cb3f8d7f[m
+Author: dorra <boutitidorra@gmail.com>
+Date:   Tue Apr 4 01:28:16 2023 +0100
+
+    forgot reset password
+
+[33mcommit 80fe67f07617ecb7167866d626989233bd410606[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Tue Apr 4 00:41:56 2023 +0200
+
+    last changes2
+
+[33mcommit 349938c4af957da25ccc576e3b88018fdecd04eb[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Mon Apr 3 23:20:51 2023 +0200
+
+    last changes
+
+[33mcommit cd83e32e6f95c25c13b9522c0d18b20c2d4576dd[m
+Merge: 8577ff7 8c0be30
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Mon Apr 3 23:12:45 2023 +0100
+
+    Merge pull request #2 from Maghraoui20/update_etudiant_CV
+    
+    Adding localStorage
+
+[33mcommit 8c0be3071facbd6af2a4c8ed34975b271fac87cf[m[33m ([m[1;31morigin/update_etudiant_CV[m[33m)[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Mon Apr 3 23:09:45 2023 +0100
+
+    Adding localStorage
+
+[33mcommit 8577ff7d471b2183517532ff6b77cf76569ef8fc[m
+Merge: 26255e0 6541e1c
+Author: FarahGhribi <73497568+farah5198@users.noreply.github.com>
+Date:   Mon Apr 3 20:32:13 2023 +0100
+
+    Merge pull request #1 from Maghraoui20/crud_event_branch
+    
+    crud_event
+
+[33mcommit 6541e1c114cdeef2f41afdb5e77248d34540a92a[m[33m ([m[1;31morigin/crud_event_branch[m[33m)[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Mon Apr 3 20:30:57 2023 +0100
+
+    crud_event
+
+[33mcommit 26255e0076cfede78b73e07f101a76ab2e5ad260[m
+Merge: 31c15ac 1a18ce0
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Sun Apr 2 22:53:22 2023 +0200
+
+    Merge branch 'importFileCSV' into stage
+
+[33mcommit 31c15ac01802db5316819d56e5e94447869754ce[m
+Merge: 0d7a2c3 643e0c1
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Sun Apr 2 22:52:14 2023 +0200
+
+    Merge remote-tracking branch 'origin/Update_compte_etudiant' into stage
+
+[33mcommit 0d7a2c34e27ed43bf4c0515503d03796c7e44933[m
+Merge: 288a8c1 497827a
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Sun Apr 2 22:46:54 2023 +0200
+
+    Merge branch 'crud_etudiant' into stage
+
+[33mcommit 288a8c14a4e5eedc0c46dcc5fe69eb79a8cc4b62[m
+Merge: 6a4e475 0683238
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Sun Apr 2 22:39:46 2023 +0200
+
+    crud
+
+[33mcommit 6a4e47518e5165b5ac5746e9ece5e8614067c86c[m
+Merge: 1d22a1f 292f571
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Sun Apr 2 22:36:45 2023 +0200
+
+    Merge branch 'signin' into stage
+
+[33mcommit 1a18ce0c9bf73a39ab41d6fa57203b3e70388026[m[33m ([m[1;31morigin/importFileCSV[m[33m)[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Sat Apr 1 17:45:07 2023 +0200
+
+    upload csv file
+
+[33mcommit 06832386670339413e8556208d0823cc0c8d2ac0[m[33m ([m[1;31morigin/crud_enseignant[m[33m)[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Sat Apr 1 14:36:58 2023 +0200
+
+    recent changes
+
+[33mcommit 643e0c1baa27e1a3f998bb9d14a7c4b93a96dc3d[m[33m ([m[1;31morigin/Update_compte_etudiant[m[33m)[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Sat Apr 1 13:25:21 2023 +0100
+
+    update compte etudiant + update CV + theme dark/light recent ones
+
+[33mcommit 292f571a02e47fd06416a86dd3c665cc72a84827[m[33m ([m[1;31morigin/signin[m[33m)[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Sat Apr 1 13:28:50 2023 +0200
+
+    recent changes2
+
+[33mcommit 497827a427a932e8441f33f7593ddd2d77a32e78[m[33m ([m[1;31morigin/crud_etudiant[m[33m)[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Sat Apr 1 12:45:47 2023 +0200
+
+    recent changes
+
+[33mcommit 92d8bc00d8864a88172501019275230294515080[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Sat Apr 1 05:27:51 2023 +0200
+
+    crud enseignant checked
+
+[33mcommit af39c77085defab3b37d1ea4d2b4020c505af905[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Fri Mar 31 04:46:12 2023 +0200
+
+    create enseignant checked
+
+[33mcommit d9d7c0057f22c72d101342af22474404a392e899[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Wed Mar 29 16:50:41 2023 +0100
+
+    update compte etudiant + update CV + theme dark/light
+
+[33mcommit 48dcc33b490a936636858a282acde512a93d8ab0[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Wed Mar 29 05:06:12 2023 +0200
+
+    crud_enseignant
+
+[33mcommit 87619f362459cab447638dd1a1839bb30c941073[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Wed Mar 29 03:46:55 2023 +0100
+
+    update compte etudiant + update CV
+
+[33mcommit 7c880edb6f332992297860263444da4c2157039f[m[33m ([m[1;31morigin/crud_evenement[m[33m)[m
+Author: farah5198 <ghribifarah09@gmail.com>
+Date:   Wed Mar 29 04:31:39 2023 +0200
+
+    crud-evenement
+
+[33mcommit 39cdcba529bb1556cc204188edc7bae7aad56bb6[m
+Author: massarrabj <120268474+massarrabj@users.noreply.github.com>
+Date:   Tue Mar 28 17:55:33 2023 +0100
+
+    update_etudiant
+
+[33mcommit 97c0034fb9f953030357c4874cedfcbeca37af98[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Tue Mar 28 14:34:12 2023 +0200
+
+     commit
+
+[33mcommit 461763206f7047b5e4d7f1212de5b0a8e79310dd[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Tue Mar 28 13:11:12 2023 +0200
+
+     commit
+
+[33mcommit 9e1b3394afb80dd16b05684da5f6d988fc08905f[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Tue Mar 28 12:31:47 2023 +0200
+
+    second commit
+
+[33mcommit c4c8a17213b32349e9c917141c203f5d5529abb9[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Mon Mar 27 23:33:28 2023 +0200
+
+    change
+
+[33mcommit cdc873ba241f33e062bdc7c5d85f7fa476d6fb8d[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Wed Mar 22 18:40:22 2023 +0100
+
+    crudetudiant branch
+
+[33mcommit 02d40d6ca375606ad16d7d3bf6e0b8c5035b2b41[m
+Author: Maghraoui20 <maghraouiameni20@gmail.com>
+Date:   Sat Mar 18 19:40:54 2023 +0100
+
+    signin branch
+
+[33mcommit 1d22a1fa066d68e63206a338c892510dc382fac8[m
+Author: unknown <maghraouiameni20@gmail.com>
+Date:   Tue Feb 21 21:54:50 2023 +0100
+
+    first commit
+
+[33mcommit 47ecba360fc201be88989d46f7c946dcec1597bd[m
+Author: unknown <maghraouiameni20@gmail.com>
+Date:   Tue Feb 21 21:21:55 2023 +0100
+
+    Initialize project using Create React App
